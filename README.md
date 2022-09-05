@@ -9,6 +9,10 @@ Pandas and Tableau were used to analysis and visualize Citi Bike Data. The analy
 2. Create Visualizations for the Trip Analysis. 
 3. Create a Story and Report for the Final Presentation
 
+## Link to Tableau Story 
+
+https://public.tableau.com/app/profile/ajani.benoit/viz/CitiBikeAnalysis_16623918721800/CitiBikeAnalysis?publish=yes
+
 ## Cleaning the Data
 
 Jupyter Notebook was used to transform the variable trip duration data to a datetime field. 
