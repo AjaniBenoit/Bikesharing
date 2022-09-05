@@ -11,7 +11,7 @@ Pandas and Tableau were used to analysis and visualize Citi Bike Data. The analy
 
 ## Link to Tableau Story 
 
-https://public.tableau.com/app/profile/ajani.benoit/viz/CitiBikeAnalysis_16623918721800/CitiBikeAnalysis?publish=yes
+[Citi Bike Analysis](https://public.tableau.com/app/profile/ajani.benoit/viz/CitiBikeAnalysis_16623918721800/CitiBikeAnalysis?publish=yes)
 
 ## Cleaning the Data
 
