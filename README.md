@@ -29,7 +29,7 @@ Jupyter Notebook was used to transform the variable trip duration data to a date
 
 ### Break Down of Checkout Time 
 
-[Checkout Time for All Users]( https://public.tableau.com/app/profile/ajani.benoit/viz/CheckoutTimeforUsers_16623284034120/CheckoutTimeforUsers?publish=yes) The Citi Bikes checkout occurs at 5:15 am with 3005 bikes being checked out. 
+[Checkout Time for All Users]( https://public.tableau.com/app/profile/ajani.benoit/viz/CheckoutTimeforUsers_16623284034120/CheckoutTimeforUsers?publish=yes) The Citi Bikes peak checkout occurs at 5:15 am with 3005 bikes being checked out. 
 
 ![Fig_3.png]( https://github.com/AjaniBenoit/Bikesharing/blob/main/Fig_3.png)
 
@@ -51,4 +51,13 @@ Jupyter Notebook was used to transform the variable trip duration data to a date
 [Users Trips by Gender Weekday](https://public.tableau.com/app/profile/ajani.benoit/viz/TripsbyGenderbyWeekday_16623424517840/UsersTripsbyGenderbyWeekday?publish=yes) shows that male subscribers utilize Citi Bikes at higher rates than other groups. 
 
 ![Fig_7.png]( https://github.com/AjaniBenoit/Bikesharing/blob/main/Fig_7.png)
+
+### Summary 
+
+1. Citi Bikes peak checkout occurs at 5:15 am with 3005 bikes being checked out.
+2. males checkout bikes at higher rates than other groups. 
+3. peak usage of bikes during the week occurs between 6 am to 10 am and 4 pm to 8 pm. When brokendown by Gender the peak usage remain the same with men accounting for more bike checkouts. 
+4. male subscribers utilize Citi Bikes at higher rates than other groups
+
+For future analysis it is recommended that a visualize depicting the starting and ending location be depicited to include gender. This will allow the team to identify is location plays an impact on the usuage of bike sharing program among women.
 
