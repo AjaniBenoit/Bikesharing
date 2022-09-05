@@ -44,4 +44,4 @@ Jupyter Notebook was used to transform the variable trip duration data to a date
 
 [Trips by Gender (Weekday Per Hour)]( https://public.tableau.com/app/profile/ajani.benoit/viz/TripsbyGenderWeekdayPerHour_16623418762560/TripsbyGenderWeekdayperHour?publish=yes) show that the peak usage of bikes during the week occurs between 6 am to 10 am and 4 pm to 8 pm, however men checkout bikes more than other groups during these times. 
 
-![Fig_6.png(https://github.com/AjaniBenoit/Bikesharing/blob/main/Fig_6.png)
+![Fig_6.png](https://github.com/AjaniBenoit/Bikesharing/blob/main/Fig_6.png)
