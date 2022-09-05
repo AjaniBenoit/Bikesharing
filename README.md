@@ -13,5 +13,10 @@ Pandas and Tableau were used to analysis and visualize Citi Bike Data. The analy
 
 Jupyter Notebook was used to transform the variable trip duration data to a datetime field. 
 
+### Unedited Trip Duration Data
+
 ![Fig_1.png]( https://github.com/AjaniBenoit/Bikesharing/blob/main/Fig_1.png)
 
+### Edited Trip Duration Data
+
+![Fig_png]( https://github.com/AjaniBenoit/Bikesharing/blob/main/Fig_2.png)
