@@ -23,4 +23,4 @@ Jupyter Notebook was used to transform the variable trip duration data to a date
 
 ### Edited Trip Duration Data
 
-![Fig_png]( https://github.com/AjaniBenoit/Bikesharing/blob/main/Fig_2.png)
+![Fig_2.png]( https://github.com/AjaniBenoit/Bikesharing/blob/main/Fig_2.png)
