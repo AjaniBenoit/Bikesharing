@@ -24,3 +24,15 @@ Jupyter Notebook was used to transform the variable trip duration data to a date
 ### Edited Trip Duration Data
 
 ![Fig_2.png]( https://github.com/AjaniBenoit/Bikesharing/blob/main/Fig_2.png)
+
+## Analysis and Visualization of Citi Bike Data 
+
+### Break Down of Checkout Time 
+
+[Checkout Time for All Users]( https://public.tableau.com/app/profile/ajani.benoit/viz/CheckoutTimeforUsers_16623284034120/CheckoutTimeforUsers?publish=yes) The Citi Bikes checkout occurs at 5:15 am with 3005 bikes being checked out. 
+
+![Fig_3.png]( https://github.com/AjaniBenoit/Bikesharing/blob/main/Fig_3.png)
+
+[Checkout Time By Gender]( https://public.tableau.com/app/profile/ajani.benoit/viz/CheckoutTimebyGender_16623405362590/CheckoutTimesbyGender?publish=yes) males checkout bikes at higher rates than other groups. 
+
+![Fig_4.png]( https://github.com/AjaniBenoit/Bikesharing/blob/main/Fig_4.png)
